@@ -1,0 +1,32 @@
+LOOPS
+-------
+->loops should have initalization,termination condition
+  and updation.
+
+--------------------------
+for loop we use when we know 
+how many times we need to iterate
+
+syntax ->  for(;;){
+				}
+
+for(int i=1;i<6;i=i+1) {
+			System.out.println("Hello World");
+		}
+
+i
+1    1<6  true    => HW
+2	 2<6 true  = ==> HW
+3    3<6 true    ==> HW
+4    4<6 true	==> HW
+5    5<6 true	==> HW
+6	6<6   false loop terminates here
+
+--------------------------
+ while, do-while
+when we don't know the number of iteration
+
+do-while loop will exceute atleast once
+-----------------------------
+Why We Need ? -> 
+-------------
