@@ -1,0 +1,32 @@
+Operators  (it is symbol which has some meaning)
+----------
+a+b // here a and b are called operands and + is called 
+//operator
+Based on operands Types of Operators
+---------------------------------------------
+i) Unary Operators (only one operand will be there)
+ (-a, ++a,--b,b--)
+ii) binary Operators(2 operands) (a+b, a*b, a/b,a%b)
+iii) ternary Operators (3 operand)[result = a>b?a:b]
+
+-------------------------------------------------
+Based On Operations
+---------------------
+1) Assignment Operator (=)
+2) comparision Operator (>,<,==,<=,>=, !=)
+3) Logical Operator(&& , ||, !)
+3) Arithmatic Operator (+,-,*,%)
+5) Increment,Decrement [Unary] [Pre, Post]
+6) Left shift
+7) right shift Operator
+
+a = 5;b=6;c = 7;//assignment
+
+
+a= a+5;// is equivalent to a+=5;  => 10
+
+
+a+b+c = (associativity -> Left to Right)
+
+ a+b*c = 47
+(a+b)*c = 77
