@@ -1,0 +1,31 @@
+Class
+Objects
+Methods
+Construcors
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+-------------
+
+ClassName varName = new ClassName();
+Scanner sc = new Scanner();
+
+
+
+Methods
+------------------
+()
+MEthods are like a machine
+Methods are resuable block of codes.
+Methods executes only when it is called
+MEthod Must have return types(
+it can be void , int , boolean)
+--------------------
+Construcors
+----------------
+-> Construcors are used to initilize a object
+-> are Special Method having same name as of class
+-> Construcors is not having any return
+  types not even void
+----------------------
